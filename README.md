@@ -1,7 +1,7 @@
 #Play Store Augmented Reality
 
 An augmented reality demo app for Android that uses my play store listing
-as a 3D model: [YouTube video](https://www.youtube.com/watch?v=ES-Bo2X-oxs)
+as a 3D model: [YouTube video](https://www.youtube.com/watch?v=eC1X9mAyZ0s)
 
 ##What's going on here
 
